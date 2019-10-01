@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.total_area {
+	text-align: center;
+	padding-top: 20px;
+}
+.total_area h2 {
+	background: #000;
+	color: #fff;
+	padding: 15px 0;
+	margin-bottom: 30px;
+}
+.total_area input {
+	width: 210px;
+	padding: 9px;
+	border-radius: ;
+}
+.total_area input[type="submit"] {
+	width: 65px;
+	background: #000;
+	border: 1px solid #000;
+	color: #fff;
+	font-weight: 700;
+	cursor: pointer;
+}
+table {
+	text-align: center;
+	margin: 45px auto 0;
+}
+th {
+	border: 1px solid #000;
+	width: 220px;
+	height: 25px;
+}
+.delbtn {
+	background: red;
+	border: none;
+	border-radius: 3px;
+	padding: 8px 14px;
+	font-size: 20px;
+	color: #fff;
+	text-transform: capitalize;
+	cursor: pointer;
+}
+tbody tr td {
+	font-size: 20px;
+	text-transform: capitalize;
+}
+
